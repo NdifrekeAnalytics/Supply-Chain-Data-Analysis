@@ -1,5 +1,6 @@
 # Supply-Chain-Data-Analysis
 Analysis of consumption, stock on hand inventory and demand data of public health commodities for selected PEPFAR &amp; PMI Supported States in Nigeria.
+Check out the full detaila at: https://ndifrekeanalytics.github.io/dataprojects.github.io
 ![image](https://jaro-website.s3.ap-south-1.amazonaws.com/2023/02/types-of-supply-chain-data-analytics.jpg)
 
 Conducted a trend analysis of consumption and demand data over a six months period for selected HIV commodities (ARVs, OI Drugs & Rapid Test Kits) in Akwa Ibom, Cross River and Rivers States to predict future demands.
